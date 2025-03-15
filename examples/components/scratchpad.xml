@@ -9,7 +9,7 @@
         <button_default width="#long" button_label="Hello"/>
         <button_default width="#long" button_label="Hello"/>
         <button_error width="#long" button_label="Hello"/>
-        <button_warning width="#long" button_label="Hello"/>
+        <button_warning width="#long" button_label="Warning"/>
         <button_default width="#long" button_label="Hello"/>
         <button_default width="#long" button_label="Hello"/>
         <button_default width="#long" button_label="Hello"/>
